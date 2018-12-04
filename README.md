@@ -1,5 +1,5 @@
 # Bilbo
 
-![Frame](img/standard_frame.png)
+![Assembly](img/standard_assembly.png)
 
 Case design files  for DIY electronics projects
